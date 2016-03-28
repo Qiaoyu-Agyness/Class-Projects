@@ -1,0 +1,365 @@
+Robot R1 enters the RoboMall at time 0
+Robot R1 arrives at store 1(12,10) on the 1 Floor at time 24
+Robot R1 delivered the following items to store 1(12,10):
+	Item name: K9 Quantity of Item: 340
+Robot R1 leaves store 1(12,10) on the 1 Floor at time 25
+Robot R2 enters the RoboMall at time 25
+Robot R3 enters the RoboMall at time 50
+Robot R2 arrives at store 1(12,4) on the 1 Floor at time 51
+Robot R2 delivered the following items to store 1(12,4):
+	Item name: W0 Quantity of Item: 16
+	Item name: W1 Quantity of Item: 11
+	Item name: W2 Quantity of Item: 22
+	Item name: W3 Quantity of Item: 33
+	Item name: W4 Quantity of Item: 44
+	Item name: X2 Quantity of Item: 355
+	Item name: W6 Quantity of Item: 66
+	Item name: W7 Quantity of Item: 77
+	Item name: W8 Quantity of Item: 88
+	Item name: W9 Quantity of Item: 9
+Robot R2 leaves store 1(12,4) on the 1 Floor at time 61
+Robot R1 arrives at store 2(12,4) on the 1 Floor at time 67
+Robot R1 delivered the following items to store 2(12,4):
+	Item name: Z8 Quantity of Item: 25
+	Item name: A0 Quantity of Item: 200
+Robot R1 leaves store 2(12,4) on the 1 Floor at time 69
+Robot R3 arrives at store 1(4,6) on the 2 Floor at time 74
+Robot R3 delivered the following items to store 1(4,6):
+	Item name: K9 Quantity of Item: 345
+	Item name: Z8 Quantity of Item: 12
+	Item name: B3 Quantity of Item: 3
+Robot R3 leaves store 1(4,6) on the 2 Floor at time 77
+Robot R4 enters the RoboMall at time 75
+Robot R4 arrives at store 1(10,4) on the 2 Floor at time 99
+Robot R4 delivered the following items to store 1(10,4):
+	Item name: A5 Quantity of Item: 180
+	Item name: X1 Quantity of Item: 2
+Robot R4 leaves store 1(10,4) on the 2 Floor at time 101
+Robot R5 enters the RoboMall at time 100
+Robot R2 arrives at store 2(4,6) on the 2 Floor at time 101
+Robot R2 delivered the following items to store 2(4,6):
+	Item name: X7 Quantity of Item: 7
+	Item name: X6 Quantity of Item: 6
+	Item name: X5 Quantity of Item: 5
+	Item name: X4 Quantity of Item: 400
+	Item name: X3 Quantity of Item: 3
+	Item name: X2 Quantity of Item: 9
+	Item name: X1 Quantity of Item: 11
+Robot R2 leaves store 2(4,6) on the 2 Floor at time 108
+Robot R1 arrives at store 3(4,6) on the 2 Floor at time 109
+Robot R1 delivered the following items to store 3(4,6):
+	Item name: B3 Quantity of Item: 10
+	Item name: C3 Quantity of Item: 20
+	Item name: D3 Quantity of Item: 30
+	Item name: E4 Quantity of Item: 40
+	Item name: F5 Quantity of Item: 50
+	Item name: G6 Quantity of Item: 88
+Robot R1 leaves store 3(4,6) on the 2 Floor at time 115
+Robot R5 arrives at store 1(10,4) on the 2 Floor at time 124
+Robot R5 delivered the following items to store 1(10,4):
+	Item name: K9 Quantity of Item: 24
+	Item name: Z8 Quantity of Item: 112
+	Item name: A0 Quantity of Item: 100
+	Item name: X7 Quantity of Item: 12
+	Item name: X6 Quantity of Item: 2
+	Item name: X2 Quantity of Item: 200
+Robot R5 leaves store 1(10,4) on the 2 Floor at time 130
+Robot R6 enters the RoboMall at time 125
+Robot R4 arrives at store 2(12,12) on the 2 Floor at time 133
+Robot R4 delivered the following items to store 2(12,12):
+	Item name: H2 Quantity of Item: 12
+	Item name: P3 Quantity of Item: 33
+	Item name: A2 Quantity of Item: 6
+Robot R4 leaves store 2(12,12) on the 2 Floor at time 136
+Robot R3 arrives at store 2(12,4) on the 1 Floor at time 135
+Robot R3 delivered the following items to store 2(12,4):
+	Item name: W1 Quantity of Item: 75
+	Item name: C0 Quantity of Item: 24
+	Item name: Z8 Quantity of Item: 5
+	Item name: A0 Quantity of Item: 1
+	Item name: K9 Quantity of Item: 14
+Robot R3 leaves store 2(12,4) on the 1 Floor at time 140
+Robot R5 arrives at store 2(4,4) on the 2 Floor at time 142
+Robot R5 delivered the following items to store 2(4,4):
+	Item name: Z9 Quantity of Item: 120
+Robot R5 leaves store 2(4,4) on the 2 Floor at time 143
+Robot R1 left the RoboMall at time 147
+Robot R7 enters the RoboMall at time 150
+Robot R2 arrives at store 3(4,4) on the 1 Floor at time 156
+Robot R2 delivered the following items to store 3(4,4):
+	Item name: K9 Quantity of Item: 99
+	Item name: A0 Quantity of Item: 88
+	Item name: Z8 Quantity of Item: 300
+	Item name: B3 Quantity of Item: 101
+Robot R2 leaves store 3(4,4) on the 1 Floor at time 160
+Robot R6 arrives at store 1(4,12) on the 2 Floor at time 157
+Robot R6 delivered the following items to store 1(4,12):
+	Item name: J9 Quantity of Item: 19
+	Item name: J8 Quantity of Item: 18
+	Item name: J7 Quantity of Item: 27
+Robot R6 leaves store 1(4,12) on the 2 Floor at time 160
+Robot R4 left the RoboMall at time 158
+Robot R7 arrives at store 1(12,10) on the 1 Floor at time 174
+Robot R7 delivered the following items to store 1(12,10):
+	Item name: K9 Quantity of Item: 14
+	Item name: Z6 Quantity of Item: 6
+	Item name: J8 Quantity of Item: 400
+	Item name: L7 Quantity of Item: 4
+	Item name: M6 Quantity of Item: 52
+	Item name: T2 Quantity of Item: 23
+	Item name: Z8 Quantity of Item: 47
+Robot R7 leaves store 1(12,10) on the 1 Floor at time 181
+Robot R8 enters the RoboMall at time 175
+Robot R3 arrives at store 3(4,10) on the 2 Floor at time 180
+Robot R3 delivered the following items to store 3(4,10):
+	Item name: W8 Quantity of Item: 92
+Robot R3 leaves store 3(4,10) on the 2 Floor at time 181
+Robot R6 arrives at store 2(10,4) on the 2 Floor at time 180
+Robot R6 delivered the following items to store 2(10,4):
+	Item name: W1 Quantity of Item: 5
+	Item name: A4 Quantity of Item: 2
+	Item name: L7 Quantity of Item: 6
+	Item name: M0 Quantity of Item: 101
+	Item name: U2 Quantity of Item: 999
+	Item name: U1 Quantity of Item: 1
+	Item name: Y2 Quantity of Item: 222
+	Item name: L6 Quantity of Item: 6
+Robot R6 leaves store 2(10,4) on the 2 Floor at time 188
+Robot R5 arrives at store 3(4,12) on the 1 Floor at time 181
+Robot R5 delivered the following items to store 3(4,12):
+	Item name: H2 Quantity of Item: 14
+	Item name: F5 Quantity of Item: 52
+Robot R5 leaves store 3(4,12) on the 1 Floor at time 183
+Robot R2 arrives at store 4(12,12) on the 1 Floor at time 182
+Robot R2 delivered the following items to store 4(12,12):
+	Item name: B3 Quantity of Item: 24
+	Item name: Z8 Quantity of Item: 8
+	Item name: M1 Quantity of Item: 11
+	Item name: N2 Quantity of Item: 654
+	Item name: P3 Quantity of Item: 36
+	Item name: R9 Quantity of Item: 75
+	Item name: S2 Quantity of Item: 2
+	Item name: W7 Quantity of Item: 78
+Robot R2 leaves store 4(12,12) on the 1 Floor at time 190
+Robot R2 left the RoboMall at time 196
+Robot R5 arrives at store 4(6,4) on the 1 Floor at time 205
+Robot R5 delivered the following items to store 4(6,4):
+	Item name: N0 Quantity of Item: 4
+	Item name: N1 Quantity of Item: 6
+	Item name: N2 Quantity of Item: 8
+Robot R5 leaves store 4(6,4) on the 1 Floor at time 208
+Robot R7 arrives at store 2(4,4) on the 1 Floor at time 213
+Robot R7 delivered the following items to store 2(4,4):
+	Item name: N7 Quantity of Item: 84
+	Item name: N8 Quantity of Item: 46
+	Item name: N9 Quantity of Item: 38
+Robot R7 leaves store 2(4,4) on the 1 Floor at time 216
+Robot R5 arrives at store 5(6,4) on the 2 Floor at time 220
+Robot R5 delivered the following items to store 5(6,4):
+	Item name: R2 Quantity of Item: 100
+	Item name: D2 Quantity of Item: 200
+	Item name: S3 Quantity of Item: 300
+	Item name: E3 Quantity of Item: 400
+	Item name: T5 Quantity of Item: 500
+Robot R5 leaves store 5(6,4) on the 2 Floor at time 225
+Robot R8 arrives at store 1(12,6) on the 2 Floor at time 227
+Robot R8 delivered the following items to store 1(12,6):
+	Item name: M9 Quantity of Item: 55
+	Item name: B8 Quantity of Item: 12
+	Item name: Z0 Quantity of Item: 200
+	Item name: M7 Quantity of Item: 112
+	Item name: X6 Quantity of Item: 2
+	Item name: X2 Quantity of Item: 78
+	Item name: Z8 Quantity of Item: 7
+Robot R8 leaves store 1(12,6) on the 2 Floor at time 234
+Robot R6 arrives at store 3(6,12) on the 1 Floor at time 228
+Robot R6 delivered the following items to store 3(6,12):
+	Item name: Z8 Quantity of Item: 18
+	Item name: K9 Quantity of Item: 9
+Robot R6 leaves store 3(6,12) on the 1 Floor at time 230
+Robot R3 arrives at store 4(4,10) on the 1 Floor at time 229
+Robot R3 delivered the following items to store 4(4,10):
+	Item name: E4 Quantity of Item: 41
+	Item name: F5 Quantity of Item: 51
+	Item name: K9 Quantity of Item: 100
+	Item name: A6 Quantity of Item: 144
+Robot R3 leaves store 4(4,10) on the 1 Floor at time 233
+Robot R7 arrives at store 3(6,4) on the 2 Floor at time 236
+Robot R7 delivered the following items to store 3(6,4):
+	Item name: P3 Quantity of Item: 33
+	Item name: P9 Quantity of Item: 99
+Robot R7 leaves store 3(6,4) on the 2 Floor at time 238
+Robot R3 arrives at store 5(4,6) on the 1 Floor at time 237
+Robot R3 delivered the following items to store 5(4,6):
+	Item name: X7 Quantity of Item: 7
+Robot R3 leaves store 5(4,6) on the 1 Floor at time 238
+Robot R8 left the RoboMall at time 248
+Robot R3 arrives at store 6(10,4) on the 2 Floor at time 250
+Robot R3 delivered the following items to store 6(10,4):
+	Item name: W1 Quantity of Item: 60
+	Item name: C0 Quantity of Item: 30
+	Item name: Z8 Quantity of Item: 6
+	Item name: A0 Quantity of Item: 900
+	Item name: K9 Quantity of Item: 3
+	Item name: W0 Quantity of Item: 100
+	Item name: W9 Quantity of Item: 18
+	Item name: B3 Quantity of Item: 200
+	Item name: X7 Quantity of Item: 70
+	Item name: X1 Quantity of Item: 12
+Robot R3 leaves store 6(10,4) on the 2 Floor at time 260
+Robot R6 arrives at store 4(10,4) on the 1 Floor at time 262
+Robot R6 delivered the following items to store 4(10,4):
+	Item name: C3 Quantity of Item: 10
+	Item name: G3 Quantity of Item: 30
+	Item name: F4 Quantity of Item: 40
+	Item name: H5 Quantity of Item: 50
+	Item name: L6 Quantity of Item: 288
+Robot R6 leaves store 4(10,4) on the 1 Floor at time 267
+Robot R5 left the RoboMall at time 267
+Robot R6 arrives at store 5(10,12) on the 1 Floor at time 269
+Robot R6 delivered the following items to store 5(10,12):
+	Item name: K8 Quantity of Item: 2
+	Item name: Z8 Quantity of Item: 2
+	Item name: A0 Quantity of Item: 4
+	Item name: J1 Quantity of Item: 632
+	Item name: J8 Quantity of Item: 82
+Robot R6 leaves store 5(10,12) on the 1 Floor at time 274
+Robot R7 arrives at store 4(10,12) on the 2 Floor at time 270
+Robot R7 delivered the following items to store 4(10,12):
+	Item name: Q8 Quantity of Item: 4
+Robot R7 leaves store 4(10,12) on the 2 Floor at time 271
+Robot R3 arrives at store 7(12,12) on the 2 Floor at time 292
+Robot R3 delivered the following items to store 7(12,12):
+	Item name: B3 Quantity of Item: 50
+Robot R3 leaves store 7(12,12) on the 2 Floor at time 293
+Robot R7 arrives at store 5(12,6) on the 2 Floor at time 311
+Robot R7 delivered the following items to store 5(12,6):
+	Item name: L7 Quantity of Item: 200
+	Item name: Y2 Quantity of Item: 34
+	Item name: Z8 Quantity of Item: 1
+Robot R7 leaves store 5(12,6) on the 2 Floor at time 314
+Robot R3 left the RoboMall at time 315
+Robot R6 arrives at store 6(6,12) on the 2 Floor at time 322
+Robot R6 delivered the following items to store 6(6,12):
+	Item name: W3 Quantity of Item: 30
+Robot R6 leaves store 6(6,12) on the 2 Floor at time 323
+Robot R7 arrives at store 6(12,12) on the 1 Floor at time 334
+Robot R7 delivered the following items to store 6(12,12):
+	Item name: A0 Quantity of Item: 5
+	Item name: S2 Quantity of Item: 8
+Robot R7 leaves store 6(12,12) on the 1 Floor at time 336
+Robot R6 arrives at store 7(4,10) on the 1 Floor at time 353
+Robot R6 delivered the following items to store 7(4,10):
+	Item name: B3 Quantity of Item: 12
+	Item name: Z3 Quantity of Item: 20
+	Item name: D3 Quantity of Item: 30
+	Item name: E4 Quantity of Item: 9
+	Item name: K9 Quantity of Item: 15
+Robot R6 leaves store 7(4,10) on the 1 Floor at time 358
+Robot R7 arrives at store 7(4,6) on the 2 Floor at time 366
+Robot R7 delivered the following items to store 7(4,6):
+	Item name: K8 Quantity of Item: 26
+	Item name: Z8 Quantity of Item: 6
+	Item name: H0 Quantity of Item: 14
+	Item name: Z9 Quantity of Item: 432
+	Item name: L8 Quantity of Item: 282
+Robot R7 leaves store 7(4,6) on the 2 Floor at time 371
+Robot R6 arrives at store 8(12,4) on the 2 Floor at time 398
+Robot R6 delivered the following items to store 8(12,4):
+	Item name: H4 Quantity of Item: 42
+	Item name: P3 Quantity of Item: 13
+	Item name: A0 Quantity of Item: 21
+Robot R6 leaves store 8(12,4) on the 2 Floor at time 401
+Robot R7 left the RoboMall at time 403
+Robot R6 arrives at store 9(12,6) on the 1 Floor at time 441
+Robot R6 delivered the following items to store 9(12,6):
+	Item name: J8 Quantity of Item: 8
+Robot R6 leaves store 9(12,6) on the 1 Floor at time 442
+Robot R6 arrives at store 10(12,10) on the 2 Floor at time 510
+Robot R6 delivered the following items to store 10(12,10):
+	Item name: J7 Quantity of Item: 6
+	Item name: K8 Quantity of Item: 8
+Robot R6 leaves store 10(12,10) on the 2 Floor at time 512
+Robot R6 left the RoboMall at time 526
+Shopper S1 enters the RoboMall at time 0
+Shopper S3 enters the RoboMall at time 1
+Shopper S4 enters the RoboMall at time 5
+Shopper S6 enters the RoboMall at time 6
+Shopper S2 enters the RoboMall at time 10
+Shopper S8 enters the RoboMall at time 11
+Shopper S7 enters the RoboMall at time 12
+Shopper S5 enters the RoboMall at time 15
+shopper S1 arrives at store 1(4,4) on the 1 Floor at time 16
+Shopper S1 bought the following items at store (4,4):
+	Item name: Z8	Quantity obtained: 50
+shopper S3 arrives at store 1(4,4) on the 1 Floor at time 17
+Shopper S3 bought the following items at store (4,4):
+	Item name: Z8	Quantity obtained: 40
+shopper S4 arrives at store 1(10,4) on the 2 Floor at time 29
+shopper S6 arrives at store 1(12,10) on the 1 Floor at time 30
+Shopper S6 bought the following items at store (12,10):
+	Item name: K9	Quantity obtained: 30
+	Item name: J8	Quantity obtained: 15
+shopper S2 arrives at store 1(10,4) on the 2 Floor at time 34
+shopper S5 arrives at store 1(12,10) on the 1 Floor at time 39
+Shopper S5 bought the following items at store (12,10):
+	Item name: K9	Quantity obtained: 5
+Shopper S5 leaves store 1(12,10) on the 1 Floor at time 44
+Shopper S3 leaves store 1(4,4) on the 1 Floor at time 57
+shopper S8 arrives at store 1(12,6) on the 2 Floor at time 63
+shopper S7 arrives at store 1(12,6) on the 2 Floor at time 64
+Shopper S1 leaves store 1(4,4) on the 1 Floor at time 66
+Shopper S6 leaves store 1(12,10) on the 1 Floor at time 75
+shopper S3 arrives at store 2(10,4) on the 2 Floor at time 77
+shopper S1 arrives at store 2(12,4) on the 1 Floor at time 78
+Shopper S1 bought the following items at store (12,4):
+	Item name: X2	Quantity obtained: 120
+shopper S5 arrives at store 2(12,4) on the 1 Floor at time 86
+Shopper S5 bought the following items at store (12,4):
+	Item name: X2	Quantity obtained: 156
+Shopper S7 bought the following items at store (12,6):
+	Item name: L7	Quantity obtained: 20
+shopper S6 arrives at store 2(10,4) on the 2 Floor at time 115
+Shopper S4 bought the following items at store (10,4):
+	Item name: B3	Quantity obtained: 55
+Shopper S6 bought the following items at store (10,4):
+	Item name: A0	Quantity obtained: 12
+Shopper S6 leaves store 2(10,4) on the 2 Floor at time 196
+Shopper S1 leaves store 2(12,4) on the 1 Floor at time 198
+shopper S6 arrives at store 3(6,4) on the 2 Floor at time 200
+Shopper S8 bought the following items at store (12,6):
+	Item name: L7	Quantity obtained: 99
+shopper S1 arrives at store 3(4,6) on the 2 Floor at time 238
+Shopper S5 leaves store 2(12,4) on the 1 Floor at time 242
+Shopper S8 bought the following items at store (12,6):
+	Item name: Z0	Quantity obtained: 14
+Shopper S8 leaves store 1(12,6) on the 2 Floor at time 277
+shopper S5 arrives at store 3(6,4) on the 2 Floor at time 282
+Shopper S7 bought the following items at store (12,6):
+	Item name: Z0	Quantity obtained: 83
+Shopper S7 leaves store 1(12,6) on the 2 Floor at time 286
+shopper S8 arrives at store 2(6,4) on the 2 Floor at time 289
+Shopper S2 bought the following items at store (10,4):
+	Item name: B3	Quantity obtained: 100
+shopper S7 arrives at store 2(6,4) on the 2 Floor at time 298
+Shopper S9 enters the RoboMall at time 314
+Shopper S7 bought the following items at store (6,4):
+	Item name: P9	Quantity obtained: 9
+Shopper S7 leaves store 2(6,4) on the 2 Floor at time 342
+shopper S7 arrives at store 3(4,10) on the 2 Floor at time 382
+Shopper S7 bought the following items at store (4,10):
+	Item name: W8	Quantity obtained: 41
+Shopper S7 leaves store 3(4,10) on the 2 Floor at time 423
+shopper S7 arrives at store 4(10,4) on the 2 Floor at time 453
+Shopper S7 bought the following items at store (10,4):
+	Item name: U2	Quantity obtained: 56
+Shopper S7 leaves store 4(10,4) on the 2 Floor at time 509
+shopper S7 arrives at store 5(6,12) on the 1 Floor at time 549
+Shopper S7 bought the following items at store (6,12):
+	Item name: M0	Quantity obtained: 1
+Shopper S7 leaves store 5(6,12) on the 1 Floor at time 550
+shopper S7 arrives at store 6(4,4) on the 1 Floor at time 572
+Shopper S7 bought the following items at store (4,4):
+	Item name: G3	Quantity obtained: 35
+Shopper S7 leaves store 6(4,4) on the 1 Floor at time 607
+Shopper S7 left the RoboMall at time 629
