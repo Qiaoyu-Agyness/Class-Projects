@@ -1,0 +1,15 @@
+sleep 1 &
+ls
+jobs
+ffff
+cd ..
+pwd
+cd ../aaaaaa
+sleep 4 &
+jobs
+sleep 5
+jobs
+ls
+jobs
+exit
+

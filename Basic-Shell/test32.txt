@@ -1,0 +1,34 @@
+ls
+man ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+cat runCommand.c&
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls

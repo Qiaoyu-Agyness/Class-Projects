@@ -1,0 +1,5 @@
+ls
+gedit aa
+pwd
+cd ../
+exit
